@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "64716232093",
+    "firebase_url": "https://reviews-77a86.firebaseio.com",
+    "project_id": "reviews-77a86",
+    "storage_bucket": "reviews-77a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64716232093:android:525b7bef2bbd0212",
+        "android_client_info": {
+          "package_name": "com.UDteam.reviews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64716232093-f470cuhu5e6j8bturmqofe8pleqifq7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjvmIQ6vlqckcfxAkS0TClsOqO7mkJzY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
